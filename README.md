@@ -96,6 +96,9 @@ We evaluate how learning speed and stability change when varying:
 - Max episodes: 800 (early stopping on solve)
 
 ---
+<img width="630" height="470" alt="dqn_pic1" src="https://github.com/user-attachments/assets/188e759b-bb1f-471c-a6d6-64fdb7e033e2" />
+<img width="630" height="470" alt="dqn_pic2" src="https://github.com/user-attachments/assets/644b71c0-5c4c-4d10-9bdd-1cc64f784b4a" />
+<img width="628" height="470" alt="dqn_pic3" src="https://github.com/user-attachments/assets/e10b50ba-d355-4097-81c9-02e7744b9024" />
 
 ## How to Run
 
