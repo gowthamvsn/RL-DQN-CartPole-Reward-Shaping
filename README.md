@@ -25,6 +25,18 @@ This project investigates:
 The goal is to develop intuition about **value estimation stability** in DQN.
 
 ---
+## Project structure 
+```
+DQN-CartPole-Reward-Shaping/
+├── src/
+│   ├── dqn_reward_shaping.py      # Main experiment (env vs angle vs angle_pos)
+│   └── dqn_hparam_sweep.py        # Hyperparameter study
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
 
 ## Environment
 
